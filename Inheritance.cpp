@@ -11,7 +11,6 @@ public:
     virtual void play() const = 0;
 };
 
-////////////////////////////////////////////////
 
 class Percussion : public Instrument {
 public:
